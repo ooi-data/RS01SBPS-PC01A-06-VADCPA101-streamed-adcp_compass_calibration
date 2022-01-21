@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS01SBPS-PC01A-06-VADCPA101-streamed-adcp_compass_calibration
-last_request: '2022-01-01T02:41:44.490015Z'
+last_request: '2022-01-21T17:45:19.159190Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPS-PC01A-06-VADCPA101-streamed-adcp_compass_calibration/main/history/response.json
 status: discontinued
